@@ -48,8 +48,8 @@
     }
   ],
   "env": {
-    "VITE_API_URL": "https://your-freqtrade-api.vercel.app",
-    "VITE_WS_URL": "wss://your-freqtrade-api.vercel.app"
+     "VITE_API_URL": "https://api.yourdomain.com",
+     "VITE_WS_URL": "wss://ws.yourdomain.com"
   },
   "build": {
     "env": {
