@@ -418,3 +418,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 Made with ❤️ by the Freqtrade community
 
 </div>
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/kmoore241/Tradingbots?utm_source=oss&utm_medium=github&utm_campaign=kmoore241%2FTradingbots&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
